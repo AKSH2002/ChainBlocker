@@ -361,11 +361,12 @@ fieldset[disabled] .btn-theme {
 }
 
 .social-icons:hover {
-    color: #515769;
+    /* color: #515769;
     background: #fff;
     transition-duration: 0.3s;
     transition-property: all;
-    transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+    transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1); */
+    box-shadow: 2px 2px 2px #77262680, 10px 1px 12px #c7565680, 2px 2px 2px #c56b6b80, 2px 2px 3px #be373780, inset 2px 2px 10px #00000080, inset 2px 2px 10px #b1484880, inset 2px 2px 10px #524c7480, inset 2px 2px 10px #a03db480;
 }
 
 .promo-block {
